@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Maqqqqq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Golang, Javascript, Rust and Lua
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Discord: Markuss#1015
 
 <!---
 Maqqqqq/Maqqqqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
