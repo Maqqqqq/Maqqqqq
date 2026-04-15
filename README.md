@@ -1,5 +1,16 @@
+# Markus Stamm
 
-<!---
-Maqqqqq/Maqqqqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring software developer with interest in QA testing, practical full-stack applications, and cybersecurity. I feel most drawn to cybersecurity and enjoy learning it the most.
+
+## Main Portfolio
+
+- [Portfolio](https://github.com/Maqqqqq/Portfolio)
+
+## Projects
+
+- [Match Me](https://github.com/Maqqqqq/match-me)
+- [Digital Detective](https://github.com/Maqqqqq/digital-detective)
+- [InvisiBits](https://github.com/Maqqqqq/invisibits)
+- [Shifty Shell](https://github.com/Maqqqqq/shifty-shell)
+- [Frontend Framework](https://github.com/Maqqqqq/dotjs-framework)
+- [Web Game](https://github.com/Maqqqqq/tronitron-9000)
